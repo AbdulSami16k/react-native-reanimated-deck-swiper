@@ -1,0 +1,38 @@
+{
+  "name": "react-native-reanimated-deck-swiper",
+  "version": "1.0.0",
+  "description": "A 60FPS, Fabric-compatible, drop-in replacement for react-native-deck-swiper using Reanimated v3.",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbdulSami16k/react-native-reanimated-deck-swiper.git"
+  },
+  "keywords": [
+    "react-native",
+    "swiper",
+    "deck-swiper",
+    "tinder-swipe",
+    "reanimated",
+    "gesture-handler",
+    "fabric",
+    "new-architecture"
+  ],
+  "author": "Abdul Sami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbdulSami16k/react-native-reanimated-deck-swiper/issues"
+  },
+  "homepage": "https://github.com/AbdulSami16k/react-native-reanimated-deck-swiper#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-gesture-handler": ">=2.0.0",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "devDependencies": {
+    "react": "^19.2.6",
+    "react-native": "^0.85.3",
+    "react-native-gesture-handler": "^2.31.2",
+    "react-native-reanimated": "^4.3.1"
+  }
+}
