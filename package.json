@@ -5,7 +5,7 @@
   "main": "index.tsx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbdulSami16k/react-native-reanimated-deck-swiper.git"
+    "url": "git+https://github.com/AbdulSami16k/react-native-reanimated-deck-swiper.git"
   },
   "keywords": [
     "react-native",
