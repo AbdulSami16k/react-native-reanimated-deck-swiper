@@ -5,7 +5,7 @@
 
 A high-performance, **Fabric (New Architecture) compatible**, drop-in replacement for legacy deck swipers. Built entirely from scratch using `react-native-reanimated` v3 and `react-native-gesture-handler` for buttery smooth 60 FPS animations running entirely on the Native UI thread.
 
-**[➡️ Click here to watch the Performance Demo Video](https://player.cloudinary.com/embed/?cloud_name=dxvco4okv&public_id=demo_fbvnrv)**
+**[➡️ Click here to watch the Performance Demo Video](https://player.cloudinary.com/embed/?cloud_name=dxvco4okv&public_id=demo_d1edlh)**
 
 ---
 
